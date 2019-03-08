@@ -1,4 +1,3 @@
-# Personal Project
-:arrow_forward: Please refer to [edX][1] for description and instructions.
+# Movie Tracker
 
-[1]: https://edge.edx.org/courses/course-v1:UBC+CPSC210+2018W1/courseware/a4d49b3ef5fa4fe2bd9496e76d72dc48/e2887456a15a48dbb040ecdac313168f/1?activate_block_id=block-v1%3AUBC%2BCPSC210%2B2018W1%2Btype%40vertical%2Bblock%40ff793bbcd5544e82bb5052f0dffe5d71
+This app contains several features for managing a list of movies. First and foremost, users are able to add or remove movies from their list and are able to see their new list. Users are also able to save their data to a file and later retrieve it from that file after the program has terminated and restarted. Users are able to recommend movies to other users and check their inbox to see if they have recieved any recommendations. If so, they are able to accept or reject and if they accept it automatically adds to their list as well. The last feature is that users are able to find information about any given movie such as the actors, director, plot and IMDB rating. 
